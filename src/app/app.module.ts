@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ElementsModule } from './elements/elements.module';
 import { CollectionsModule } from './collections/collections.module';
 import { ModulesModule } from './modules/modules.module';
+import { ViewsModule } from './views/views.module';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ModulesModule } from './modules/modules.module';
     AppRoutingModule,
     ElementsModule,
     CollectionsModule,
-    ModulesModule
+    ModulesModule,
+    ViewsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
