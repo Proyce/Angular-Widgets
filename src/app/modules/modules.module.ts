@@ -11,6 +11,6 @@ import { ModulesHomeComponent } from './modules-home/modules-home.component';
     CommonModule,
     ModulesRoutingModule
   ],
-  exports: [ModulesHomeComponent]
+  // exports: [ModulesHomeComponent]
 })
 export class ModulesModule { }
