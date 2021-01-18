@@ -18,11 +18,11 @@ import { NotFoundComponent } from './not-found/not-found.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
     ElementsModule,
     CollectionsModule,
     ModulesModule,
-    ViewsModule
+    ViewsModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
