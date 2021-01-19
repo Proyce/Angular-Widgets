@@ -9,15 +9,6 @@ export class CollectionsHomeComponent implements OnInit {
   data = [
     {name: 'James', age: 24, job: 'Designer', employed: true},
     {name: 'Peter', age: 28, job: 'Developer', employed: false},
-    {name: 'Laura', age: 32, job: 'Marketer', employed: true},
-    {name: 'James', age: 24, job: 'Designer', employed: true},
-    {name: 'Peter', age: 28, job: 'Developer', employed: false},
-    {name: 'Laura', age: 32, job: 'Marketer', employed: true},
-    {name: 'James', age: 24, job: 'Designer', employed: true},
-    {name: 'Peter', age: 28, job: 'Developer', employed: false},
-    {name: 'Laura', age: 32, job: 'Marketer', employed: true},
-    {name: 'James', age: 24, job: 'Designer', employed: true},
-    {name: 'Peter', age: 28, job: 'Developer', employed: false},
     {name: 'Laura', age: 32, job: 'Marketer', employed: true}
   ];
 
